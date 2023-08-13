@@ -13,4 +13,5 @@ My computer specifications are as follows:
 - Storage: SSD TEAM T253X2128G, HDD Disk #2 - Hitachi HDS721050CLA360
 
 ### 📖 Contribution
+
 I am open to collaboration and ready to attentively listen to your ideas for improving my projects. If you have any suggestions, feel free to propose changes through pull requests or even create new issues.
