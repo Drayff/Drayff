@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋Hello!
 
-<!--
-**Drayff/drayff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying programming. I have experience in programming with HTML, CSS, JavaScript, Java, and Python. However, I am considering a transition towards Linux to further enhance my programming skills. Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetBrains, occasionally using other text editors.
 
-Here are some ideas to get you started:
+### 💻 System
+At the moment, I am using the Windows 10 operating system. Nevertheless, I am exploring the idea of switching to Linux. My computer specifications are as follows:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Motherboard: Asus M4A77T
+Processor: AMD Athlon(tm) II X2 255 Processor
+Graphics Card: AMD Radeon HD 5670
+RAM: 6 gigabytes
+Storage: SSD TEAM T253X2128G, HDD Disk #2 - Hitachi HDS721050CLA360
+
+### 📖 Contribution
+I am open to collaboration and ready to attentively listen to your ideas for improving my projects. If you have any suggestions, feel free to propose changes through pull requests or even create new issues.
