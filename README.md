@@ -3,7 +3,8 @@
 I am studying programming. I have experience in programming with HTML, CSS, JavaScript, Java, and Python. However, I am considering a transition towards Linux to further enhance my programming skills. Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetBrains, occasionally using other text editors.
 
 ### 💻 System
-At the moment, I am using the Windows 10 operating system. Nevertheless, I am exploring the idea of switching to Linux. My computer specifications are as follows:
+At the moment, I am using the Windows 10 operating system. Nevertheless, I am exploring the idea of switching to Linux.
+My computer specifications are as follows:
 
 - Motherboard: Asus M4A77T
 - Processor: AMD Athlon(tm) II X2 255 Processor
