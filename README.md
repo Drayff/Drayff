@@ -1,6 +1,6 @@
 ### 👋Hello!
 
-I am studying programming. I have experience in programming with HTML, CSS, JavaScript, Java, and Python. However, I am considering a transition towards Linux to further enhance my programming skills. Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetBrains, occasionally using other text editors.
+I am studying programming. I have experience in programming with HTML, CSS, JavaScript, Java, and Python. Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetBrains.
 
 ### 💻 System
 At the moment, I am using the Windows 10 operating system. Nevertheless, I am exploring the idea of switching to Linux.
