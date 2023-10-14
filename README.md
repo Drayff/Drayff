@@ -1,9 +1,10 @@
 ### 👋Hello!
 
-I am studying programming. I have experience in programming with HTML, CSS, JavaScript, Java, and Python. Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetBrains.
+I am studying programming. I have experience in programming with HTML, CSS, JavaScript, Java, and Python. 
+Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetBrains.
 
 ### 💻 System
-At the moment, I am using the Debian 12 operating system.
+At the moment I am using Windows 10 as the main operating system, and Debian 12 for the server.
 My computer specifications are as follows:
 
 - Motherboard: Asus M4A77T
