@@ -22,5 +22,7 @@ My computer specifications are as follows:
 
 I am open to collaboration and ready to attentively listen to your ideas for improving my projects. If you have any suggestions, feel free to propose changes through pull requests or even create new issues.
 
-### 🦾 Most Uses Languages
+### 🦾 Most Uses Languages and CodeWars badge.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drayff)](https://github.com/anuraghazra/github-readme-stats)
+
+![CodeWars Badge](https://www.codewars.com/users/Drayff/badges/small)
