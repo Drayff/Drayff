@@ -5,14 +5,13 @@ Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetB
 
 ### 💻 System
 
-At the moment I am using Windows 10 as the main operating system, and Debian 12 for the server.
+At the moment I am using Windows 10 as the main operating system, and Debian 12 for programming.
 My computer specifications are as follows:
 
-- Motherboard: Asus M4A77T
-- Processor: AMD Athlon(tm) II X2 255 Processor
-- Graphics Card: AMD Radeon HD 5670
-- RAM: 6 gigabytes
-- Storage: SSD TEAM T253X2128G, HDD Disk #2 - Hitachi HDS721050CLA360
+- Motherboard: Asus P8H61-M LX
+- Processor: Intel Core i7-3770.
+- Graphics Card: Sapphire Radeon RX 580 4 gigabytes
+- RAM: x2 HyperX Fury 8GB
 
 ### 📖 Links
 
