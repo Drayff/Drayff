@@ -10,7 +10,7 @@ My computer specifications are as follows:
 
 - Motherboard: Asus P8H61-M LX
 - Processor: Intel Core i7-3770.
-- Graphics Card: Sapphire Radeon RX 580 4 gigabytes
+- Graphics Card: Sapphire Radeon RX 580 4GB
 - RAM: x2 HyperX Fury 8GB
 
 ### 📖 Links
