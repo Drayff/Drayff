@@ -5,13 +5,13 @@ Currently, I am actively learning Java and writing code in IntelliJ IDEA by JetB
 
 ### 💻 System
 
-At the moment I am using Windows 10 as the main operating system, and Debian 12 for programming.
+At the moment I am using Windows 10 as the main operating system, and Arch Linux for programming.
 My computer specifications are as follows:
 
 - Motherboard: Asus P8H61-M LX
 - Processor: Intel Core i7-3770.
 - Graphics Card: Sapphire Radeon RX 580 4GB
-- RAM: x2 HyperX Fury 8GB
+- RAM: HyperX Fury 8GB x2
 
 ### 📖 Links
 
