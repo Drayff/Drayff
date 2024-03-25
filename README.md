@@ -15,7 +15,7 @@ My computer specifications are as follows:
 
 ### 📖 Links
 
-[Website](https://drayff.me/) | [Discord Server](https://ds.drayff.me/) | [Telegram Channel](https://tg.drayff.me/) | [CodeWars Profile](https://www.codewars.com/users/Drayff)
+[Website](https://drayff.me/) | [Discord Server](https://discord.gg/J2xd86TVEe/) | [Telegram Channel](https://t.me/drayffcode/) | [CodeWars Profile](https://www.codewars.com/users/Drayff)
 
 ### 📖 Contribution
 
